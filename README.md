@@ -7,7 +7,7 @@ load neo4j  - for example
 * go to http://localhost:7474/browser/
 * try sample scripts (movie graph)
 
-###Clone this git repository
+### Clone this git repository
 
 
 ./gradlew bootRun
