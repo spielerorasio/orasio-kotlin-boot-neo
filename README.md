@@ -7,11 +7,13 @@ load neo4j  - for example
 * go to http://localhost:7474/browser/
 * try sample scripts (movie graph)
 
-clone this git repository
+###Clone this git repository
+
+
 ./gradlew bootRun
 
 
-API to use
+### API to use
 
 * GET http://localhost:8080/movies
 * GET http://localhost:8080/movies/by-title?title=Cloud%20Atlas
